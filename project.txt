@@ -1,8 +1,1 @@
-title:details:fund:startdate:enddate
-
-one:one all:55:665465:688
-
-two:allalll:55:665465:688
-
-three:three all:55:665465:688
 
